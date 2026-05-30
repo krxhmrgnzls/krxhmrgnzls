@@ -1,4 +1,4 @@
-**## Hi there, I'm Krixhia 👋**
+## Hi there, I'm Krixhia 👋
 
 # 🚀 About Me
 - 4th-year Graduating IT student at Mapúa Malayan Digital College majoring Software Development.
